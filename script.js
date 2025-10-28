@@ -1,5 +1,5 @@
 // 1. Pilih tombol berdasarkan ID-nya
-const tombolSapa = document.gelElementById('sapaBUTTON'):
+const tombolSapa = document.gelElementById('sapaButton'):
 // 2. Tambahkan 'event listener' untuk aksi 'click
 tombolSapa.addEventListener('click', function() {
   // 3. Jalankan code ini ketika tombol di-click
